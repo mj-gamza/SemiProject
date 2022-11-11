@@ -1,4 +1,4 @@
-# 🍊ccookat
+# 🍊 맛있는 쇼핑 :: ccookat
 SemiProject - ccookat
 
 ---
