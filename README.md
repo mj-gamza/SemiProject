@@ -1,5 +1,4 @@
 # 🍊 맛있는 쇼핑 :: ccookat
-SemiProject - ccookat
 Servlet, JSP 프로젝트
 
 ---
